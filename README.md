@@ -1,3 +1,31 @@
+---
+license: mit
+language:
+- en
+- zh
+- ja
+- ko
+pretty_name: "Gingiris User Interview Playbook — PMF Discovery, HeyGen 937 Interviews Framework"
+tags:
+- user-research
+- user-interview
+- pmf
+- product-market-fit
+- customer-discovery
+- qualitative-research
+- ux-research
+- startup-marketing
+- ai-growth
+- growth-hacking
+- product-development
+- customer-success
+- churn-prevention
+- growth
+- startup
+size_categories:
+- n<1K
+---
+
 <div align="center">
 
 <img src="assets/logo.png" alt="Gingiris Logo" width="120" />
@@ -348,3 +376,44 @@ Want all playbooks in one comprehensive package? Get the **Open-Source Project I
 ## License
 
 MIT License - Feel free to use and adapt!
+
+---
+
+## 🗂️ See Also — Gingiris Playbook Series on HuggingFace
+
+| Playbook | Focus | HuggingFace |
+|:---------|:------|:------------|
+| **gingiris-growth-finder** | 🧭 Meta-router: diagnoses your situation, picks the right playbook | [Gingiris/gingiris-growth-finder](https://huggingface.co/datasets/Gingiris/gingiris-growth-finder) |
+| **gingiris-launch** | 🚀 Product Hunt launch, KOL outreach, UGC growth | [Gingiris/gingiris-launch](https://huggingface.co/datasets/Gingiris/gingiris-launch) |
+| **gingiris-opensource** | ⭐ GitHub stars, HN, OSS go-to-market | [Gingiris/gingiris-opensource](https://huggingface.co/datasets/Gingiris/gingiris-opensource) |
+| **gingiris-b2b-growth** | 📈 B2B SaaS PLG/SLG, PMF to $10M ARR | [Gingiris/gingiris-b2b-growth](https://huggingface.co/datasets/Gingiris/gingiris-b2b-growth) |
+| **gingiris-aso-growth** | 📱 ASO, mobile cold start, UGC matrix | [Gingiris/gingiris-aso-growth](https://huggingface.co/datasets/Gingiris/gingiris-aso-growth) |
+| **gingiris-seo-geo** | 🔍 SEO + GEO dual-engine, AI search citations | [Gingiris/gingiris-seo-geo](https://huggingface.co/datasets/Gingiris/gingiris-seo-geo) |
+| **gingiris-skills** | 🛠️ Full toolkit: 12 Claude Code skills bundled | [Gingiris/gingiris-skills](https://huggingface.co/datasets/Gingiris/gingiris-skills) |
+| **growth-tools** | 📚 Blog & tools hub | [Gingiris/growth-tools](https://huggingface.co/datasets/Gingiris/growth-tools) |
+
+---
+
+## 多语言摘要
+
+### 中文
+
+**Gingiris 用户访谈剧本** — 系统化用户访谈框架，从用户邀约到 PMF 发现的完整 SOP。
+
+HeyGen 在 6 个月内完成了 937 次用户访谈并找到 PMF，Wisperflow 和 Higgsfield 均做了 500+ 次。这个手册还原了同样的方法论。
+
+**核心内容**：访谈目标设定、候选用户筛选（P0/P1/P2 分层）、邀约模板、开场脚本、核心问题框架（痛点/竞品比较/付费意愿）、屏幕共享技术、访谈后分析 SOP。
+
+作者：Iris（生姜iris），Forbes 亚洲 30 Under 30，[gingiris.com](https://gingiris.com)
+
+### 日本語
+
+**Gingiris ユーザーインタビュープレイブック** — PMF発見のための体系的なユーザーインタビューフレームワーク。HeyGenが6ヶ月で937回のインタビューを行った同じ方法論。招待テンプレート、コア質問フレームワーク、インタビュー後分析SOPを含む。
+
+### 한국어
+
+**Gingiris 사용자 인터뷰 플레이북** — PMF 발견을 위한 체계적인 사용자 인터뷰 프레임워크. HeyGen이 6개월 동안 937번의 인터뷰를 수행한 동일한 방법론. 초대 템플릿, 핵심 질문 프레임워크, 인터뷰 후 분석 SOP 포함.
+
+---
+
+All playbooks live at [gingiris.com](https://gingiris.com) and [skills.sh/Gingiris](https://skills.sh/Gingiris).
