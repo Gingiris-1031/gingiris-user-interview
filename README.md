@@ -364,12 +364,15 @@ Want all playbooks in one comprehensive package? Get the **Open-Source Project I
 
 ---
 
-## Related Playbooks
+## 🔗 Related Gingiris Skills
 
-- [gingiris-launch](https://github.com/Gingiris/gingiris-launch) — AI Product Global Launch Playbook
-- [gingiris-opensource](https://github.com/Gingiris/gingiris-opensource) — Open Source Launch Marketing
-- [gingiris-b2b-growth](https://github.com/Gingiris/gingiris-b2b-growth) — B2B SaaS Growth Playbook
-- [gingiris-aso-growth](https://github.com/Gingiris/gingiris-aso-growth) — Mobile App ASO & Growth
+| Skill | Focus | Install |
+|-------|-------|---------||
+| [gingiris-b2b-growth](https://github.com/Gingiris-1031/gingiris-b2b-growth) | B2B growth requires deep user research | `clawhub install gingiris-b2b-growth` |
+| [gingiris-aso-growth](https://github.com/Gingiris-1031/gingiris-aso-growth) | App cold start user acquisition | `clawhub install gingiris-aso-growth` |
+| [gingiris-launch](https://github.com/Gingiris-1031/gingiris-launch) | Pre-launch user validation | `clawhub install gingiris-launch` |
+
+> 📦 **Full collection:** [gingiris-skills](https://github.com/Gingiris-1031/gingiris-skills) — All playbooks in one bundle.
 
 ---
 
