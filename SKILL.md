@@ -1,20 +1,52 @@
 ---
 name: gingiris-user-interview
 description: |
-  🇺🇸 User Interview & Cold-Start Operations Playbook — Battle-tested framework from HeyGen's 937 interviews to PMF. Complete SOP for user screening, interview execution, Beta testing methodology, cold-start user operations, churn analysis, and user grading systems.
+  Your activation rate is terrible but you don't know why. Users sign up and disappear. This gives you the framework to find out what's actually happening — from recruiting the right people to interview, to extracting the insight that changes your product.
 
-  🇨🇳 用户访谈与冷启动运营实战手册 — 基于 HeyGen 937 场访谈验证的 PMF 方法论。包含用户筛选、访谈执行、Beta 测试设计、冷启动用户运营、流失分析、用户分级体系完整 SOP。
+  What's inside:
+  • Recruitment scripts that actually get responses (paid vs organic channels)
+  • JTBD question framework (what to ask, what NOT to ask)
+  • PMF signal detection ("40% very disappointed" test + leading indicators)
+  • Activation diagnosis (what happens in the first 3 minutes after signup)
+  • Retention-first framework (churn analysis → intervention design)
 
-  🇯🇵 ユーザーインタビュー＆コールドスタート運営プレイブック — HeyGenの937回インタビューで検証されたPMF方法論。ユーザースクリーニング、インタビュー実行、Betaテスト設計、コールドスタートユーザー運営、離脱分析、ユーザーグレーディング。
-
-  🇰🇷 사용자 인터뷰 & 콜드 스타트 운영 플레이북 — HeyGen 937회 인터뷰로 검증된 PMF 방법론. 사용자 스크리닝, 인터뷰 실행, Beta 테스트 설계, 콜드 스타트 사용자 운영, 이탈 분석, 사용자 등급 시스템.
+  Built from: 500+ user interviews conducted across 150+ AI startups. HeyGen's 937 interviews to PMF as anchor case.
 
   Triggers: "user interview" | "user research" | "customer discovery" | "PMF" | "product-market fit" | "beta test" | "beta testing" | "cold start users" | "cold start operations" | "churn analysis" | "user grading" | "用户访谈" | "用户调研" | "冷启动" | "冷启动运营" | "Beta测试" | "流失分析" | "用户分级"
+
+tags:
+  - user-interview
+  - customer-discovery
+  - pmf-validation
+  - jtbd-framework
+  - user-research
+  - product-market-fit
+  - churn-analysis
+  - beta-testing
+  - cold-start
+  - activation-diagnosis
+  - screening-rubric
+  - retention-framework
+  - user-segmentation
+  - interview-questions
+  - product-management
 ---
 
 # 用户访谈与冷启动运营实战手册
 
 > 🌍 **Language / 语言**: 中文 | [Interview Guide](references/interview-guide.md) | [Cold-Start Ops](references/cold-start-ops.md)
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-user-interview
+```
+
+**What you get after installing:**
+- JTBD question framework (what to ask, what NOT to ask)
+- PMF signal detection ("40% very disappointed" test + leading indicators)
+- Activation diagnosis and retention-first churn analysis framework
+
 
 ---
 
@@ -191,3 +223,15 @@ description: |
 | [references/interview-guide.md](references/interview-guide.md) | 完整用户访谈指南（HeyGen 937场方法论、问题框架、模板、FAQ） |
 | [references/cold-start-ops.md](references/cold-start-ops.md) | Beta测试设计框架、冷启动用户运营、流失分析、可复用模板 |
 | [references/templates.md](references/templates.md) | 访谈复盘模板、用户画像表、Feature Request Tracker |
+
+
+---
+
+## 🔗 About the Author
+
+**Iris Wei** — Growth consultant for 150+ AI startups. Ex-COO at AFFiNE (69K GitHub stars).
+
+- 🐦 Twitter: [@WeiYipei](https://twitter.com/WeiYipei) — Daily growth tactics
+- 💬 Consulting: [@Iris_carrot on Telegram](https://t.me/Iris_carrot)
+- 🛒 Premium Bundle (all 5 playbooks + templates): [Get on Gumroad ($249)](https://gingiris.gumroad.com/l/gingiris-complete-global-launch-bundle)
+- 📚 40+ Free Playbooks: [gingiris.tools/skills](https://gingiris.tools/skills/)
