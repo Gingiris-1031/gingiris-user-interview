@@ -34,15 +34,26 @@ size_categories:
 
 ### Battle-tested framework for user interviews — from HeyGen's 937 interviews to PMF
 
-[![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-user-interview?style=social)](https://github.com/Gingiris/gingiris-user-interview/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-user-interview?style=social)](https://github.com/Gingiris/gingiris-user-interview/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Gingiris-1031/gingiris-skills?style=social)](https://github.com/Gingiris-1031/gingiris-skills/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Website](https://img.shields.io/badge/Website-gingiris.com-blue)](https://www.gingiris.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gingiris/gingiris-user-interview/pulls)
+[![Website](https://img.shields.io/badge/Website-gingiris.tools-blue)](https://gingiris.tools)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gingiris-1031/gingiris-user-interview/pulls)
 
 **[English](#why-user-interviews) | [中文](#中文版)**
 
 </div>
+
+---
+
+> 📌 **Mirror notice.** The source of truth for this playbook is the gingiris-skills monorepo → **[gingiris-skills/skills/gingiris-user-interview](https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/gingiris-user-interview)**. Contributions and issue reports are welcome there. Landing page: [gingiris.tools](https://gingiris.tools)
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-user-interview
+# or
+clawhub install gingiris-user-interview
+```
 
 ---
 
@@ -407,7 +418,7 @@ HeyGen 在 6 个月内完成了 937 次用户访谈并找到 PMF，Wisperflow �
 
 **核心内容**：访谈目标设定、候选用户筛选（P0/P1/P2 分层）、邀约模板、开场脚本、核心问题框架（痛点/竞品比较/付费意愿）、屏幕共享技术、访谈后分析 SOP。
 
-作者：Iris（生姜iris），Forbes 亚洲 30 Under 30，[gingiris.com](https://gingiris.com)
+作者：Iris（生姜iris），Forbes 亚洲 30 Under 30，[gingiris.tools](https://gingiris.tools)
 
 ### 日本語
 
@@ -419,4 +430,4 @@ HeyGen 在 6 个月内完成了 937 次用户访谈并找到 PMF，Wisperflow �
 
 ---
 
-All playbooks live at [gingiris.com](https://gingiris.com) and [skills.sh/Gingiris](https://skills.sh/Gingiris).
+All playbooks live at [gingiris.tools](https://gingiris.tools) and [skills.sh/Gingiris-1031](https://skills.sh/Gingiris-1031).
